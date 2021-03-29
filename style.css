@@ -1,0 +1,124 @@
+#hero{
+  background-color:#39BE11;
+  height:100vh;
+}
+
+#logo{
+  width:100px;
+  height:100px;
+}
+
+#menu{
+  color:white;
+  background-color:#39BE11;
+}
+
+a:hover{
+  text-decoration:underline;
+}
+h1{
+  font-family: Acier BAT;
+  font-size:100px;
+  color:white;
+  margin-left:10%;
+}
+h2{
+  color:#39BE11;
+}
+
+h3{
+  font-size:30px;
+}
+#sous-titre{
+  color:white;
+  margin-left:10%;
+  font-family:Open Sans;
+  font-size: 1.5em;
+}
+#block-header{
+  margin:-400px;
+}
+
+#button-header{
+  background-color:white;
+  margin-left:10%;
+  padding:10px;
+  border-radius:5px;
+}
+
+#button-header:hover{
+  background-color:#39BE11;
+  color:white;
+}
+
+/*éléments graphiques*/
+#rectangle{
+  height:300px;
+  width: 120px;
+  background: #39BE11;
+}
+
+#nos-missions{
+  background-color: #39BE11;
+  max-width:750px;
+  padding:20px 20px 20px 50px;
+  margin-bottom:5%;
+}
+
+#block-header-white{
+  max-width:500px;
+  height:200px;
+}
+
+/*font*/
+.open-sans{
+  /*color green*/
+  font-family:Open sans;
+  color:#39BE11;
+}
+
+/*column*/
+.deux-tiers{
+  max-width:30%;
+  margin-left:50px;
+}
+
+/*image*/
+#img-garcon{
+  max-width:40%;
+  margin-left:200px;
+  margin-top:-150px;
+}
+
+#svg{
+  margin-left: 100px;
+}
+
+#svg2{
+  margin-left:80px;
+}
+
+.box-shadow{
+  box-shadow:5px 5px 5px 1px rgba(57, 190, 17, 0.1);
+   border-radius:10px;
+}
+.box-color-shadow :hover {
+  background-color:rgba(57, 190, 17, 0.1);
+ box-shadow: inset 3px 4px 5px rgba(57, 190, 17, 0.1); 
+  
+}
+
+.button{
+  background-color :#39BE11;
+  color:white;
+  border-radius:10px;
+  padding:1%;
+  box-shadow:5px 5px 5px 1px  rgba(57, 190, 17, 0.15)
+}
+
+.button:hover{
+  background-color: rgba(57, 190, 17, 0.15);
+  box-shadow: inset 3px 4px 5px rgba(57, 190, 17, 0.15); 
+  color: rgba(57, 190, 17, 1)
+}
+
